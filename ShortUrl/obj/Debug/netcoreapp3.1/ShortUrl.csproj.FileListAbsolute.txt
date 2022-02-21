@@ -1,0 +1,14 @@
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\bin\Debug\netcoreapp3.1\ShortUrl.exe
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\bin\Debug\netcoreapp3.1\ShortUrl.deps.json
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\bin\Debug\netcoreapp3.1\ShortUrl.runtimeconfig.json
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\bin\Debug\netcoreapp3.1\ShortUrl.runtimeconfig.dev.json
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\bin\Debug\netcoreapp3.1\ShortUrl.dll
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\bin\Debug\netcoreapp3.1\ShortUrl.pdb
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\obj\Debug\netcoreapp3.1\ShortUrl.csproj.AssemblyReference.cache
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\obj\Debug\netcoreapp3.1\ShortUrl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\obj\Debug\netcoreapp3.1\ShortUrl.AssemblyInfoInputs.cache
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\obj\Debug\netcoreapp3.1\ShortUrl.AssemblyInfo.cs
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\obj\Debug\netcoreapp3.1\ShortUrl.csproj.CoreCompileInputs.cache
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\obj\Debug\netcoreapp3.1\ShortUrl.dll
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\obj\Debug\netcoreapp3.1\ShortUrl.pdb
+C:\Users\smaharjan\source\repos\ShortUrl\ShortUrl\obj\Debug\netcoreapp3.1\ShortUrl.genruntimeconfig.cache
